@@ -1,0 +1,103 @@
+{
+  "loadingScreens": [
+    {
+      "name": "Hello Sunshine",
+      "nameES": "Hello Sunshine",
+      "description": "Soft pastel colors with dreamy aesthetics",
+      "descriptionES": "Colores pastel suaves con estética soñadora",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tumblr%20loading%20screen%201.package",
+      "fileName": "LeuanToolKit_LoadingScreen_HelloSunshine.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tum%20screen%201.png",
+      "gradientStart": "#F472B6",
+      "gradientEnd": "#C084FC"
+    },
+    {
+      "name": "Flowers Sunset",
+      "nameES": "Flores en Ocaso",
+      "description": "Soft pastel colors with dreamy aesthetics",
+      "descriptionES": "Colores pastel suaves con estética soñadora",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tumblr%20loading%20screen%202.package",
+      "fileName": "LeuanToolKit_LoadingScreen_FlowersSunset.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tum%20screen%202.png",
+      "gradientStart": "#06B6D4",
+      "gradientEnd": "#8B5CF6"
+    },
+    {
+      "name": "Feathers",
+      "nameES": "Plumas",
+      "description": "Soft pastel colors with dreamy aesthetics",
+      "descriptionES": "Colores pastel suaves con estética soñadora",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tumblr%20loading%20screen%203.package",
+      "fileName": "LeuanToolKit_LoadingScreen_Feathers.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/tum%20screen%203.png",
+      "gradientStart": "#22C55E",
+      "gradientEnd": "#84CC16"
+    },
+    {
+      "name": "Vintage Retro",
+      "nameES": "Retro Vintage",
+      "description": "Retro 80s and 90s vibes",
+      "descriptionES": "Vibras retro de los 80s y 90s",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/citiskyline.package",
+      "fileName": "LeuanToolKit_LoadingScreen_VintageRetro.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/citiesskyline.jpg",
+      "gradientStart": "#F59E0B",
+      "gradientEnd": "#DC2626"
+    },
+    {
+      "name": "Sylvan Glade",
+      "nameES": "Glaceado de Leuan",
+      "description": "No description.",
+      "descriptionES": "Sin descripcion.",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/SylvanGlade.package",
+      "fileName": "LeuanToolKit_LoadingScreen_GalaxySpace.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/SylvanGlade.gif",
+      "gradientStart": "#6366F1",
+      "gradientEnd": "#1F2937"
+    },
+    {
+      "name": "Minimalist Dark",
+      "nameES": "Negro Minimalista",
+      "description": "Clean and minimalist black design",
+      "descriptionES": "Diseño negro limpio y minimalista",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/teanmoon_DarkerLoadingScreens_BG.package",
+      "fileName": "LeuanToolKit_LoadingScreen_MinimalistWhite.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/DarkLoadingScreen.png",
+      "gradientStart": "#F3F4F6",
+      "gradientEnd": "#9CA3AF"
+    },
+    {
+      "name": "Brindleton",
+      "nameES": "Brindleton",
+      "description": "Clean and minimalist white design",
+      "descriptionES": "Diseño blanco limpio y minimalista",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/brindleton3.package",
+      "fileName": "LeuanToolKit_LoadingScreen_MinimalistWhite.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/brindleton.jpeg",
+      "gradientStart": "#F3F4F6",
+      "gradientEnd": "#9CA3AF"
+    },
+    {
+      "name": "Warm Nature",
+      "nameES": "Naturaleza Acogedora",
+      "description": "Clean and minimalist nature design",
+      "descriptionES": "Diseño de naturaleza limpio y minimalista",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/Sunivaa_WarmNatureloadingScreen01.package",
+      "fileName": "LeuanToolKit_LoadingScreen_MinimalistWhite.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/WarmNatureLoading01.png",
+      "gradientStart": "#F3F4F6",
+      "gradientEnd": "#9CA3AF"
+    },
+    {
+      "name": "WW1",
+      "nameES": "WW1",
+      "description": "Clean and minimalist werewolf design",
+      "descriptionES": "Diseño de lobos limpio y minimalista",
+      "downloadUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/WW1.package",
+      "fileName": "LeuanToolKit_LoadingScreen_MinimalistWhite.package",
+      "imageUrl": "https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/LoadingScreens/WW1.png",
+      "gradientStart": "#F3F4F6",
+      "gradientEnd": "#9CA3AF"
+    }
+  ]
+}
