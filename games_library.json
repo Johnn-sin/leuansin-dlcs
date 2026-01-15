@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "id": "sims4",
+      "name": "The Sims 4",
+      "nameES": "Los Sims 4",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims4.jpg",
+      "actionType": "openWindow",
+      "windowName": "InstallModeSelector",
+      "requiresVault": false
+    },
+    {
+      "id": "sims3",
+      "name": "The Sims 3",
+      "nameES": "Los Sims 3",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims3.jpg",
+      "actionType": "openWindow",
+      "windowName": "Sims3UpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "peak",
+      "name": "PEAK",
+      "nameES": "PEAK",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/peak.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "amongus",
+      "name": "Among Us",
+      "nameES": "Among Us",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/amongus.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "ark",
+      "name": "ARK: Survival Evolved",
+      "nameES": "ARK: Survival Evolved",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/ark.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    }
+  ]
+}
