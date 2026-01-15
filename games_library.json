@@ -211,7 +211,7 @@
       "id": "poly-bridge-2",
       "name": "Poly Bridge 2",
       "nameES": "Poly Bridge 2",
-      "coverImageUrl": "https://cdn.cdkeys.com/media/catalog/product/p/o/poly_brigde_2_pc.png",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/poly_brigde_2_pc.webp",
       "actionType": "showVaultPopup",
       "windowName": null,
       "requiresVault": true
@@ -274,7 +274,7 @@
       "id": "the-long-dark",
       "name": "The Long Dark",
       "nameES": "The Long Dark",
-      "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Long_Dark_Key_Art.jpg",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/The_Long_Dark_Key_Art.jpg",
       "actionType": "showVaultPopup",
       "windowName": null,
       "requiresVault": true
