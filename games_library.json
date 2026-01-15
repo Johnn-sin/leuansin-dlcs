@@ -4,7 +4,7 @@
       "id": "sims4",
       "name": "The Sims 4",
       "nameES": "Los Sims 4",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims4.jpg",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims4.png",
       "actionType": "openWindow",
       "windowName": "InstallModeSelector",
       "requiresVault": false
@@ -13,9 +13,54 @@
       "id": "sims3",
       "name": "The Sims 3",
       "nameES": "Los Sims 3",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims3.jpg",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims3.png",
       "actionType": "openWindow",
       "windowName": "Sims3UpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "sims2",
+      "name": "The Sims 2",
+      "nameES": "Los Sims 2",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims2.png",
+      "actionType": "openWindow",
+      "windowName": "Sims2UpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "sims",
+      "name": "The Sims 1",
+      "nameES": "Los Sims 1",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims2.png",
+      "actionType": "openWindow",
+      "windowName": "Sims2UpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "simcity",
+      "name": "SimCity Societies Deluxe",
+      "nameES": "SimCity Societies Deluxe",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simcity.png",
+      "actionType": "openWindow",
+      "windowName": "SimsCityUpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "simmedieval",
+      "name": "The Sims - Medieval",
+      "nameES": "Los Sims - Medieval",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simsmedieval.png",
+      "actionType": "openWindow",
+      "windowName": "SimsMedievalUpdaterWindow",
+      "requiresVault": false
+    },
+    {
+      "id": "simstories",
+      "name": "The Sims Stories - Collection",
+      "nameES": "Los Sims Historias - Colección",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simsstories.webp",
+      "actionType": "openWindow",
+      "windowName": "SimsStoriesUpdaterWindow",
       "requiresVault": false
     },
     {
