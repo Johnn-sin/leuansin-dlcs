@@ -28,12 +28,12 @@
       "requiresVault": false
     },
     {
-      "id": "sims",
+      "id": "sims1",
       "name": "The Sims 1",
       "nameES": "Los Sims 1",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims1.jpg",
       "actionType": "openWindow",
-      "windowName": "Sims2UpdaterWindow",
+      "windowName": "Sims1UpdaterWindow",
       "requiresVault": false
     },
     {
@@ -42,13 +42,13 @@
       "nameES": "SimCity Societies Deluxe",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simcity.png",
       "actionType": "openWindow",
-      "windowName": "SimsCityUpdaterWindow",
+      "windowName": "SimCityUpdaterWindow",
       "requiresVault": false
     },
     {
       "id": "simmedieval",
-      "name": "The Sims - Medieval",
-      "nameES": "Los Sims - Medieval",
+      "name": "The Sims Medieval",
+      "nameES": "Los Sims Medieval",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims-medieval.png",
       "actionType": "openWindow",
       "windowName": "SimsMedievalUpdaterWindow",
@@ -56,12 +56,30 @@
     },
     {
       "id": "simstories",
-      "name": "The Sims Stories - Collection",
-      "nameES": "Los Sims Historias - Colección",
+      "name": "The Sims Stories Collection",
+      "nameES": "Los Sims Historias Colección",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simsstories.webp",
       "actionType": "openWindow",
       "windowName": "SimsStoriesUpdaterWindow",
       "requiresVault": false
+    },
+    {
+      "id": "house-flipper",
+      "name": "House Flipper",
+      "nameES": "House Flipper",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/house-flipper.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "sons-of-the-forest",
+      "name": "Sons Of The Forest",
+      "nameES": "Sons Of The Forest",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sons-of-the-forest.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
     },
     {
       "id": "peak",
@@ -73,19 +91,199 @@
       "requiresVault": true
     },
     {
-      "id": "amongus",
-      "name": "Among Us",
-      "nameES": "Among Us",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/amongus.jpg",
+      "id": "Civilization6",
+      "name": "Civilization VI",
+      "nameES": "Civilization VI",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/gubble.jpg",
       "actionType": "showVaultPopup",
       "windowName": null,
       "requiresVault": true
     },
     {
-      "id": "ark",
-      "name": "ARK: Survival Evolved",
-      "nameES": "ARK: Survival Evolved",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/ark.jpg",
+      "id": "age-of-mythology",
+      "name": "Age of Mythology Extended Edition",
+      "nameES": "Age of Mythology Extended Edition",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/age-of-mythology.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "bird",
+      "name": "Bird",
+      "nameES": "Bird",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/bird.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "dead-island",
+      "name": "Dead Island Definitive Edition",
+      "nameES": "Dead Island Definitive Edition",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/dead-island.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "dont-starve-together",
+      "name": "Don't Starve Together",
+      "nameES": "Don't Starve Together",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/dont-starve-together.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "gta3",
+      "name": "Grand Theft Auto III",
+      "nameES": "Grand Theft Auto III",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/gta3.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "gta-san-andreas",
+      "name": "Grand Theft Auto San Andreas",
+      "nameES": "Grand Theft Auto San Andreas",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/gta-san-andreas.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "gta-vice-city",
+      "name": "Grand Theft Auto Vice City",
+      "nameES": "Grand Theft Auto Vice City",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/gta-vice-city.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "gubble",
+      "name": "Gubble",
+      "nameES": "Gubble",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/gubble.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "life-is-strange",
+      "name": "Life is Strange™",
+      "nameES": "Life is Strange™",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/life-is-strange.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "move-or-die",
+      "name": "Move or Die",
+      "nameES": "Move or Die",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/move-or-die.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "overcooked",
+      "name": "Overcooked",
+      "nameES": "Overcooked",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/overcooked.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "plants-vs-zombies-goty",
+      "name": "Plants vs. Zombies Game of the Year",
+      "nameES": "Plants vs. Zombies Game of the Year",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/plants-vs-zombies-goty.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "poly-bridge-2",
+      "name": "Poly Bridge 2",
+      "nameES": "Poly Bridge 2",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/poly-bridge-2.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "poly-bridge",
+      "name": "Poly Bridge",
+      "nameES": "Poly Bridge",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/poly-bridge.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "slime-rancher",
+      "name": "Slime Rancher",
+      "nameES": "Slime Rancher",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/slime-rancher.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "stranded-deep",
+      "name": "Stranded Deep",
+      "nameES": "Stranded Deep",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/stranded-deep.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "subnautica",
+      "name": "Subnautica",
+      "nameES": "Subnautica",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/subnautica.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "the-forest",
+      "name": "The Forest",
+      "nameES": "The Forest",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/the-forest.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "the-last-campfire",
+      "name": "The Last Campfire",
+      "nameES": "The Last Campfire",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/the-last-campfire.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "the-long-dark",
+      "name": "The Long Dark",
+      "nameES": "The Long Dark",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/the-long-dark.jpg",
+      "actionType": "showVaultPopup",
+      "windowName": null,
+      "requiresVault": true
+    },
+    {
+      "id": "valheim",
+      "name": "Valheim",
+      "nameES": "Valheim",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/valheim.jpg",
       "actionType": "showVaultPopup",
       "windowName": null,
       "requiresVault": true
