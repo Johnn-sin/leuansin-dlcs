@@ -31,7 +31,7 @@
       "id": "sims",
       "name": "The Sims 1",
       "nameES": "Los Sims 1",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims2.png",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims1.jpg",
       "actionType": "openWindow",
       "windowName": "Sims2UpdaterWindow",
       "requiresVault": false
@@ -49,7 +49,7 @@
       "id": "simmedieval",
       "name": "The Sims - Medieval",
       "nameES": "Los Sims - Medieval",
-      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simsmedieval.png",
+      "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims-medieval.png",
       "actionType": "openWindow",
       "windowName": "SimsMedievalUpdaterWindow",
       "requiresVault": false
