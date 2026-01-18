@@ -1,4 +1,4 @@
 enableAnnounce=true
 announceText="IMPORTANT!!! This is not the final version, this was made in a rush in order to solve a critical error. New full version will be released soon, please be patient ^^."
-imageURL="https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/banner.jpg"
-logoURL="https://zeroauno.blob.core.windows.net/leuan/TheSims4/Utility/logo.png"
+imageURL="https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims4.png"
+logoURL="https://github.com/Leuansin/leuan-dlcs/releases/download/imgs/logo.png"
