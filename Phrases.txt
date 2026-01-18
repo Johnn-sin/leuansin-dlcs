@@ -1,1 +1,40 @@
-phrases
+# ================================================================================================
+# Phrases.txt - Motivational and Philosophical Quotes
+# ================================================================================================
+# Format: One phrase per line
+# Lines starting with # are comments and will be ignored
+# Empty lines will be ignored
+# You can add, remove, or modify phrases as needed
+# ================================================================================================
+
+"The only way to do great work is to love what you do." - Steve Jobs
+
+"In the middle of difficulty lies opportunity." - Albert Einstein
+
+"Digital culture was born to be shared, but the big companies locked it away. Piracy is just the human gesture of ensuring that culture remains accessible to everyone." - Leuan
+
+"La cultura digital nació para compartirse, pero las grandes compañías lo privatizaron. La piratería es solo un gesto humano que se asegura que esta cultura sea accesible para todos." - Leuan
+
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+
+"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+
+"El conocimiento es poder, pero compartir el conocimiento es libertad." - Anonymous
+
+"Don't watch the clock; do what it does. Keep going." - Sam Levenson
+
+"Believe you can and you're halfway there." - Theodore Roosevelt
+
+"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
+
+"Information wants to be free." - Stewart Brand
+
+"La verdadera riqueza no está en poseer, sino en compartir lo que tienes." - Anonymous
+
+"Your limitation—it's only your imagination." - Unknown
+
+"Great things never come from comfort zones." - Anonymous
+
+"Dream it. Wish it. Do it." - Unknown
+
+"El acceso a la cultura no debería ser un privilegio, sino un derecho humano." - Anonymous
