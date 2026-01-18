@@ -1,1 +1,57 @@
-s
+# ================================================================================================
+# TheScriptures.txt - Bible Verses
+# ================================================================================================
+# Format: "Verse text" - Book Chapter:Verse
+# Lines starting with # are comments and will be ignored
+# Empty lines will be ignored
+# You can add, remove, or modify verses as needed
+# Include both English and Spanish verses for bilingual support
+# ================================================================================================
+
+"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." - John 3:16
+
+"Porque tanto amó Dios al mundo que dio a su Hijo unigénito, para que todo el que cree en él no se pierda, sino que tenga vida eterna." - Juan 3:16
+
+"I can do all things through Christ who strengthens me." - Philippians 4:13
+
+"Todo lo puedo en Cristo que me fortalece." - Filipenses 4:13
+
+"Trust in the Lord with all your heart and lean not on your own understanding." - Proverbs 3:5
+
+"Confía en el Señor de todo corazón, y no en tu propia inteligencia." - Proverbios 3:5
+
+"The Lord is my shepherd, I lack nothing." - Psalm 23:1
+
+"El Señor es mi pastor, nada me falta." - Salmos 23:1
+
+"Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." - Joshua 1:9
+
+"Sé fuerte y valiente. No temas ni te desanimes, porque el Señor tu Dios estará contigo dondequiera que vayas." - Josué 1:9
+
+"And we know that in all things God works for the good of those who love him." - Romans 8:28
+
+"Y sabemos que Dios dispone todas las cosas para el bien de los que lo aman." - Romanos 8:28
+
+"Cast all your anxiety on him because he cares for you." - 1 Peter 5:7
+
+"Depositen en él toda ansiedad, porque él cuida de ustedes." - 1 Pedro 5:7
+
+"The Lord is close to the brokenhearted and saves those who are crushed in spirit." - Psalm 34:18
+
+"El Señor está cerca de los quebrantados de corazón, y salva a los de espíritu abatido." - Salmos 34:18
+
+"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God." - Philippians 4:6
+
+"No se inquieten por nada; más bien, en toda ocasión, con oración y ruego, presenten sus peticiones a Dios y denle gracias." - Filipenses 4:6
+
+"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future." - Jeremiah 29:11
+
+"Porque yo sé muy bien los planes que tengo para ustedes, planes de bienestar y no de calamidad, a fin de darles un futuro y una esperanza." - Jeremías 29:11
+
+"Love is patient, love is kind. It does not envy, it does not boast, it is not proud." - 1 Corinthians 13:4
+
+"El amor es paciente, es bondadoso. El amor no es envidioso ni jactancioso ni orgulloso." - 1 Corintios 13:4
+
+"But those who hope in the Lord will renew their strength. They will soar on wings like eagles." - Isaiah 40:31
+
+"Pero los que confían en el Señor renovarán sus fuerzas; volarán como las águilas." - Isaías 40:31
