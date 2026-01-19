@@ -11,10 +11,10 @@
       "order": 1
     },
     {
-      "name": "Midnight Black",
-      "color1": "#1a1a1a",
-      "color2": "#0a0a0a",
-      "color3": "#2d2d2d",
+      "name": "Justin's Theme",
+      "color1": "#191817",
+      "color2": "#131313",
+      "color3": "#120F0E",
       "isLocked": false,
       "isFree": true,
       "order": 2
