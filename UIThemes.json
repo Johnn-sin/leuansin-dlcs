@@ -1,0 +1,185 @@
+{
+  "version": "1.0",
+  "themes": [
+    {
+      "name": "Iconic (Default)",
+      "color1": "#22D3EE",
+      "color2": "#1E293B",
+      "color3": "#21b96b",
+      "isLocked": false,
+      "isFree": true,
+      "order": 1
+    },
+    {
+      "name": "Midnight Black",
+      "color1": "#1a1a1a",
+      "color2": "#0a0a0a",
+      "color3": "#2d2d2d",
+      "isLocked": false,
+      "isFree": true,
+      "order": 2
+    },
+    {
+      "name": "Pure White",
+      "color1": "#f5f5f5",
+      "color2": "#ffffff",
+      "color3": "#e0e0e0",
+      "isLocked": false,
+      "isFree": true,
+      "order": 3
+    },
+    {
+      "name": "Ocean Breeze",
+      "color1": "#0077be",
+      "color2": "#00a8e8",
+      "color3": "#005f99",
+      "isLocked": true,
+      "isFree": false,
+      "order": 4
+    },
+    {
+      "name": "Sunset Glow",
+      "color1": "#ff6b6b",
+      "color2": "#ffa500",
+      "color3": "#ff4757",
+      "isLocked": true,
+      "isFree": false,
+      "order": 5
+    },
+    {
+      "name": "Forest Green",
+      "color1": "#2d5016",
+      "color2": "#4a7c2e",
+      "color3": "#6ba83d",
+      "isLocked": true,
+      "isFree": false,
+      "order": 6
+    },
+    {
+      "name": "Royal Purple",
+      "color1": "#6a0dad",
+      "color2": "#9b59b6",
+      "color3": "#8e44ad",
+      "isLocked": true,
+      "isFree": false,
+      "order": 7
+    },
+    {
+      "name": "Cherry Blossom",
+      "color1": "#ff69b4",
+      "color2": "#ffb6c1",
+      "color3": "#ff1493",
+      "isLocked": true,
+      "isFree": false,
+      "order": 8
+    },
+    {
+      "name": "Golden Hour",
+      "color1": "#ffd700",
+      "color2": "#ffed4e",
+      "color3": "#ffa500",
+      "isLocked": true,
+      "isFree": false,
+      "order": 9
+    },
+    {
+      "name": "Arctic Ice",
+      "color1": "#b0e0e6",
+      "color2": "#add8e6",
+      "color3": "#87ceeb",
+      "isLocked": true,
+      "isFree": false,
+      "order": 10
+    },
+    {
+      "name": "Lava Flow",
+      "color1": "#ff4500",
+      "color2": "#dc143c",
+      "color3": "#8b0000",
+      "isLocked": true,
+      "isFree": false,
+      "order": 11
+    },
+    {
+      "name": "Mint Fresh",
+      "color1": "#98ff98",
+      "color2": "#00ff7f",
+      "color3": "#3cb371",
+      "isLocked": true,
+      "isFree": false,
+      "order": 12
+    },
+    {
+      "name": "Cosmic Purple",
+      "color1": "#4b0082",
+      "color2": "#9370db",
+      "color3": "#663399",
+      "isLocked": true,
+      "isFree": false,
+      "order": 13
+    },
+    {
+      "name": "Neon Nights",
+      "color1": "#ff00ff",
+      "color2": "#00ffff",
+      "color3": "#ff1493",
+      "isLocked": true,
+      "isFree": false,
+      "order": 14
+    },
+    {
+      "name": "Desert Sand",
+      "color1": "#d2b48c",
+      "color2": "#f4a460",
+      "color3": "#daa520",
+      "isLocked": true,
+      "isFree": false,
+      "order": 15
+    },
+    {
+      "name": "Deep Sea",
+      "color1": "#000080",
+      "color2": "#191970",
+      "color3": "#4169e1",
+      "isLocked": true,
+      "isFree": false,
+      "order": 16
+    },
+    {
+      "name": "Autumn Leaves",
+      "color1": "#ff8c00",
+      "color2": "#d2691e",
+      "color3": "#8b4513",
+      "isLocked": true,
+      "isFree": false,
+      "order": 17
+    },
+    {
+      "name": "Electric Blue",
+      "color1": "#7df9ff",
+      "color2": "#00bfff",
+      "color3": "#1e90ff",
+      "isLocked": true,
+      "isFree": false,
+      "order": 18
+    },
+    {
+      "name": "Rose Gold",
+      "color1": "#b76e79",
+      "color2": "#e0b0b0",
+      "color3": "#c9a0a0",
+      "isLocked": true,
+      "isFree": false,
+      "order": 19
+    },
+    {
+      "name": "Emerald Dream",
+      "color1": "#50c878",
+      "color2": "#00a86b",
+      "color3": "#2e8b57",
+      "isLocked": true,
+      "isFree": false,
+      "order": 20
+    }
+  ]
+}
