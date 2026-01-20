@@ -1,1 +1,95 @@
-
+{
+  "members": [
+    {
+      "name": "Leuan",
+      "role": "Founder & Lead Developer",
+      "emoji": "✝️",
+      "description": "\"Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.\" — Matthew 7:7",
+      "descriptionEs": "\"Pidan, y se les dará; busquen, y encontrarán; llamen, y se les abrirá.\" — Mateo 7:7",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sacred_Heart_of_Jesus_Cristo_Redentor.jpg/220px-Sacred_Heart_of_Jesus_Cristo_Redentor.jpg",
+      "accentColor": "#FBBF24",
+      "discord": "leuan",
+      "kofi": null,
+      "twitter": null,
+      "website": "https://leuan.zeroauno.com"
+    },
+    {
+      "name": "Amelie",
+      "role": "Staff Member",
+      "emoji": "🇫🇷",
+      "description": "French, friendly, and very self-critical. One of Leuan's top 3 best staff members.",
+      "descriptionEs": "Francesa, simpática y muy autocrítica. Está en el top 3 de mejores staff members para Leuan.",
+      "imageUrl": null,
+      "accentColor": "#F472B6",
+      "discord": "amelie",
+      "kofi": null,
+      "twitter": null,
+      "website": null
+    },
+    {
+      "name": "Tess",
+      "role": "Staff Member",
+      "emoji": "🦋",
+      "description": "Spanish, super friendly and helpful. One of the best staff members. She looks like Lore, an impossible love.",
+      "descriptionEs": "Española, muy simpática y servicial. Una de las mejores. Además se parece a la Lore, que es un amor imposible.",
+      "imageUrl": null,
+      "accentColor": "#A78BFA",
+      "discord": "tess",
+      "kofi": null,
+      "twitter": null,
+      "website": null
+    },
+    {
+      "name": "Kaiser",
+      "role": "Staff Member",
+      "emoji": "⚔️",
+      "description": "Pleasant and neutral. Always ready to help when needed.",
+      "descriptionEs": "Bastante agradable y neutro. Siempre dispuesto a ayudar cuando se necesita.",
+      "imageUrl": null,
+      "accentColor": "#60A5FA",
+      "discord": "kaiser",
+      "kofi": "https://ko-fi.com/kaiser",
+      "twitter": null,
+      "website": null
+    },
+    {
+      "name": "Blake",
+      "role": "Staff Member",
+      "emoji": "🎮",
+      "description": "Staff member. More info coming soon!",
+      "descriptionEs": "Miembro del staff. ¡Más información próximamente!",
+      "imageUrl": null,
+      "accentColor": "#34D399",
+      "discord": "blake",
+      "kofi": null,
+      "twitter": null,
+      "website": null
+    },
+    {
+      "name": "Irena",
+      "role": "Staff Member",
+      "emoji": "💕",
+      "description": "English speaker, friendly, mature, and a sweetheart with everyone. One of the best staff members.",
+      "descriptionEs": "Habla inglés, simpática, madura y un amor con las personas. Una de las mejores staff members.",
+      "imageUrl": null,
+      "accentColor": "#F9A8D4",
+      "discord": "irena",
+      "kofi": null,
+      "twitter": null,
+      "website": null
+    },
+    {
+      "name": "Isra",
+      "role": "Staff Member",
+      "emoji": "🇪🇸",
+      "description": "Spanish and very friendly. Always willing to help and an excellent human being.",
+      "descriptionEs": "Español y muy simpático. Dispuesto a ayudar y un excelente ser humano.",
+      "imageUrl": null,
+      "accentColor": "#FB923C",
+      "discord": "isra",
+      "kofi": null,
+      "twitter": null,
+      "website": null
+    }
+  ]
+}
