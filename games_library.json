@@ -15,7 +15,7 @@
       "nameES": "Los Sims 3",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims3.png",
       "actionType": "openWindow",
-      "windowName": "Sims3DownloaderWindow",
+      "windowName": "Sims3Downloader",
       "requiresVault": false
     },
     {
