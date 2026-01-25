@@ -35,7 +35,7 @@
       "nameES": "Los Sims 1",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims1.jpg",
       "actionType": "openWindow",
-      "windowName": "Sims1UpdaterWindow",
+      "windowName": "Sims3Downloader",
       "requiresVault": false
     },
     {
