@@ -15,7 +15,7 @@
       "nameES": "Los Sims 3",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims3.png",
       "actionType": "openWindow",
-      "windowName": "Sims3UpdaterWindow",
+      "windowName": "Sims3DownloaderWindow",
       "requiresVault": false
     },
     {
@@ -23,9 +23,11 @@
       "name": "The Sims 2",
       "nameES": "Los Sims 2",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims2.png",
-      "actionType": "openWindow",
+      "actionType": "openWebsite",
       "windowName": "Sims2UpdaterWindow",
-      "requiresVault": false
+      "windowName": null,
+      "requiresVault": false,
+      "websiteUrl": "https://www.minecraft.net/download"
     },
     {
       "id": "sims1",
