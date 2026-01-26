@@ -1,0 +1,105 @@
+{
+    "id": "interaction",
+    "displayName": {
+        "en": "Interaction",
+        "es": "Interacción"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Open Mod Constructor",
+                "es": "Paso 1: Abrir Mod Constructor"
+            },
+            "description": {
+                "en": "Open Mod Constructor V5 and create a new mod or open existing one.",
+                "es": "Abre Mod Constructor V5 y crea un nuevo mod o abre uno existente."
+            },
+            "image": "/Assets/Tutorials/interaction_step1.png",
+            "label": {
+                "en": "Start",
+                "es": "Inicio"
+            },
+            "color": "#EC4899"
+        },
+        {
+            "title": {
+                "en": "Step 2: Add Social Interaction",
+                "es": "Paso 2: Agregar Interacción Social"
+            },
+            "description": {
+                "en": "1. Select 'Add Element'\n2. Search for 'Social Interaction' (SuperInteraction is INTERMEDIATE level)\n3. Give the interaction the name that will appear in the menu\n4. Press 'Create Element'",
+                "es": "1. Selecciona 'Add Element'\n2. Busca 'Social Interaction' (SuperInteraction es nivel INTERMEDIO)\n3. Ponle el nombre que llevará esta interacción (el nombre que aparecerá en el menú)\n4. Presiona 'Create Element'"
+            },
+            "image": "/Assets/Tutorials/interaction_step2.png",
+            "label": {
+                "en": "Create",
+                "es": "Crear"
+            },
+            "color": "#EC4899"
+        },
+        {
+            "title": {
+                "en": "Step 3: Configure Category and Name",
+                "es": "Paso 3: Configurar Categoría y Nombre"
+            },
+            "description": {
+                "en": "Select menu category (Friendly, Mean, Romance, Funny, Mischief). Enter visible name and interaction description.",
+                "es": "Selecciona la categoría de menú (Friendly, Mean, Romance, Funny, Mischief). Ingresa el nombre visible y descripción de la interacción."
+            },
+            "image": "/Assets/Tutorials/interaction_step3.png",
+            "label": {
+                "en": "Config",
+                "es": "Config"
+            },
+            "color": "#A78BFA"
+        },
+        {
+            "title": {
+                "en": "Step 4: Select Animation",
+                "es": "Paso 4: Seleccionar Animación"
+            },
+            "description": {
+                "en": "In 'Animation', choose a predefined template (Talk, Hug, High Five, Tell Story, etc.). This defines the visual animation.",
+                "es": "En 'Animation', elige una plantilla predefinida (Talk, Hug, High Five, Tell Story, etc.). Esto define la animación visual."
+            },
+            "image": "/Assets/Tutorials/interaction_step4.png",
+            "label": {
+                "en": "Animate",
+                "es": "Animar"
+            },
+            "color": "#38BDF8"
+        },
+        {
+            "title": {
+                "en": "Step 5: Configure Outcomes",
+                "es": "Paso 5: Configurar Resultados"
+            },
+            "description": {
+                "en": "Define what happens when executed: add buffs, change relationships, give money. You can have multiple outcomes.",
+                "es": "Define qué sucede al ejecutarse: agrega buffs, cambia relaciones, da dinero. Puedes tener múltiples resultados."
+            },
+            "image": "/Assets/Tutorials/interaction_step5.png",
+            "label": {
+                "en": "Effects",
+                "es": "Efectos"
+            },
+            "color": "#22C55E"
+        },
+        {
+            "title": {
+                "en": "Step 6: Export and Test",
+                "es": "Paso 6: Exportar y Probar"
+            },
+            "description": {
+                "en": "Export the mod (.package and .ts4script). Place them in your Mods folder and test by clicking on another Sim in-game.",
+                "es": "Exporta el mod (.package y .ts4script). Colócalos en tu carpeta Mods y prueba haciendo clic en otro Sim en el juego."
+            },
+            "image": "/Assets/Tutorials/interaction_step6.png",
+            "label": {
+                "en": "Done!",
+                "es": "¡Listo!"
+            },
+            "color": "#22C55E"
+        }
+    ]
+}
