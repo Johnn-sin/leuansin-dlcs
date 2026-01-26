@@ -1,0 +1,105 @@
+{
+    "id": "clothing",
+    "displayName": {
+        "en": "Clothing",
+        "es": "Ropa"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Clone Base Clothing",
+                "es": "Paso 1: Clonar Ropa Base"
+            },
+            "description": {
+                "en": "Open Sims 4 Studio. Go to 'CAS' → select category (Top, Bottom, Dress, etc.). Find similar clothing and clone it.",
+                "es": "Abre Sims 4 Studio. Ve a 'CAS' → selecciona categoría (Top, Bottom, Dress, etc.). Busca una prenda similar y clónala."
+            },
+            "image": "/Assets/Tutorials/clothing_step1.png",
+            "label": {
+                "en": "Clone",
+                "es": "Clonar"
+            },
+            "color": "#EC4899"
+        },
+        {
+            "title": {
+                "en": "Step 2: Export Textures",
+                "es": "Paso 2: Exportar Texturas"
+            },
+            "description": {
+                "en": "Export clothing textures. You'll see multiple files (diffuse, normal, specular). Diffuse is most important for recoloring.",
+                "es": "Exporta las texturas de la prenda. Verás múltiples archivos (difusa, normal, specular). La difusa es la más importante para recolorear."
+            },
+            "image": "/Assets/Tutorials/clothing_step2.png",
+            "label": {
+                "en": "Export",
+                "es": "Exportar"
+            },
+            "color": "#A78BFA"
+        },
+        {
+            "title": {
+                "en": "Step 3: Edit in Image Editor",
+                "es": "Paso 3: Editar en Editor de Imágenes"
+            },
+            "description": {
+                "en": "Open textures in Photoshop/GIMP. Change colors, add patterns or designs. Keep the same image size.",
+                "es": "Abre las texturas en Photoshop/GIMP. Cambia colores, agrega patrones o diseños. Mantén el mismo tamaño de imagen."
+            },
+            "image": "/Assets/Tutorials/clothing_step3.png",
+            "label": {
+                "en": "Edit",
+                "es": "Editar"
+            },
+            "color": "#38BDF8"
+        },
+        {
+            "title": {
+                "en": "Step 4: Import Edited Textures",
+                "es": "Paso 4: Importar Texturas Editadas"
+            },
+            "description": {
+                "en": "Return to S4S and import your edited textures. Make sure to import in correct slots (diffuse, normal, etc.).",
+                "es": "Vuelve a S4S e importa tus texturas editadas. Asegúrate de importar en los slots correctos (difusa, normal, etc.)."
+            },
+            "image": "/Assets/Tutorials/clothing_step4.png",
+            "label": {
+                "en": "Import",
+                "es": "Importar"
+            },
+            "color": "#22C55E"
+        },
+        {
+            "title": {
+                "en": "Step 5: Configure CAS Categories",
+                "es": "Paso 5: Configurar Categorías CAS"
+            },
+            "description": {
+                "en": "Configure which categories it will appear in (Everyday, Formal, Athletic, etc.). Check allowed ages and gender.",
+                "es": "Configura en qué categorías aparecerá (Everyday, Formal, Athletic, etc.). Marca las edades permitidas y género."
+            },
+            "image": "/Assets/Tutorials/clothing_step5.png",
+            "label": {
+                "en": "Categories",
+                "es": "Categorías"
+            },
+            "color": "#EAB308"
+        },
+        {
+            "title": {
+                "en": "Step 6: Save and Test",
+                "es": "Paso 6: Guardar y Probar"
+            },
+            "description": {
+                "en": "Save the .package. Place in Mods. Open CAS in-game and find your clothing in the corresponding category.",
+                "es": "Guarda el .package. Colócalo en Mods. Abre CAS en el juego y busca tu prenda en la categoría correspondiente."
+            },
+            "image": "/Assets/Tutorials/clothing_step6.png",
+            "label": {
+                "en": "Done!",
+                "es": "¡Listo!"
+            },
+            "color": "#22C55E"
+        }
+    ]
+}
