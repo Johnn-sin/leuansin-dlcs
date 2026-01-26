@@ -1,0 +1,105 @@
+{
+    "id": "career",
+    "displayName": {
+        "en": "Career",
+        "es": "Carrera"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Add Career Element",
+                "es": "Paso 1: Agregar Career Element"
+            },
+            "description": {
+                "en": "In Mod Constructor, go to 'Add Element' → '2: Intermediate' → 'Career'. Give it a unique name.",
+                "es": "En Mod Constructor, ve a 'Add Element' → '2: Intermediate' → 'Career'. Dale un nombre único."
+            },
+            "image": "/Assets/Tutorials/career_step1.png",
+            "label": {
+                "en": "Create",
+                "es": "Crear"
+            },
+            "color": "#F97316"
+        },
+        {
+            "title": {
+                "en": "Step 2: Configure Career Info",
+                "es": "Paso 2: Configurar Info de la Carrera"
+            },
+            "description": {
+                "en": "Enter visible name, detailed description and select an icon. Choose if it's Full-Time or Part-Time.",
+                "es": "Ingresa nombre visible, descripción detallada y selecciona un ícono. Elige si es Full-Time o Part-Time."
+            },
+            "image": "/Assets/Tutorials/career_step2.png",
+            "label": {
+                "en": "Info",
+                "es": "Info"
+            },
+            "color": "#F97316"
+        },
+        {
+            "title": {
+                "en": "Step 3: Create Career Track and Levels",
+                "es": "Paso 3: Crear Career Track y Niveles"
+            },
+            "description": {
+                "en": "Open 'Start Track'. In 'Career Levels', add levels (typically 10). For each level: job title, hourly pay, work days, schedule.",
+                "es": "Abre 'Start Track'. En 'Career Levels', agrega niveles (típicamente 10). Para cada nivel: nombre del puesto, salario/hora, días laborales, horario."
+            },
+            "image": "/Assets/Tutorials/career_step3.png",
+            "label": {
+                "en": "Levels",
+                "es": "Niveles"
+            },
+            "color": "#22C55E"
+        },
+        {
+            "title": {
+                "en": "Step 4: Add Promotion Tasks",
+                "es": "Paso 4: Agregar Tareas de Promoción"
+            },
+            "description": {
+                "en": "For each level, add objectives the Sim must complete to advance (e.g., reach skill level 5, make friends).",
+                "es": "Para cada nivel, agrega objetivos que el Sim debe cumplir para ascender (ej: alcanzar nivel 5 de habilidad, hacer amigos)."
+            },
+            "image": "/Assets/Tutorials/career_step4.png",
+            "label": {
+                "en": "Tasks",
+                "es": "Tareas"
+            },
+            "color": "#38BDF8"
+        },
+        {
+            "title": {
+                "en": "Step 5: Add Level Rewards",
+                "es": "Paso 5: Agregar Recompensas por Nivel"
+            },
+            "description": {
+                "en": "Optionally, add reward objects per level. Use Sims 4 Studio to find object IDs from the game.",
+                "es": "Opcionalmente, agrega objetos de recompensa por nivel. Usa Sims 4 Studio para buscar IDs de objetos del juego."
+            },
+            "image": "/Assets/Tutorials/career_step5.png",
+            "label": {
+                "en": "Rewards",
+                "es": "Premios"
+            },
+            "color": "#EAB308"
+        },
+        {
+            "title": {
+                "en": "Step 6: Export and Test",
+                "es": "Paso 6: Exportar y Probar"
+            },
+            "description": {
+                "en": "Export the mod. In-game, have a Sim search for jobs on their phone. Your career should appear. Use 'careers.promote [CareerName]' to test quickly.",
+                "es": "Exporta el mod. En el juego, haz que un Sim busque trabajo en su teléfono. Tu carrera debería aparecer. Usa 'careers.promote [CareerName]' para probar rápido."
+            },
+            "image": "/Assets/Tutorials/career_step6.png",
+            "label": {
+                "en": "Done!",
+                "es": "¡Listo!"
+            },
+            "color": "#22C55E"
+        }
+    ]
+}
