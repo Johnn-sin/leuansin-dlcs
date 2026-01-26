@@ -1,0 +1,229 @@
+{
+    "id": "trait",
+    "displayName": {
+        "en": "Trait",
+        "es": "Rasgo"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Download and Install Mod Constructor V5",
+                "es": "Paso 1: Descargar e Instalar Mod Constructor V5"
+            },
+            "description": {
+                "en": "Go to GitHub (github.com/Zerbu/Mod-Constructor-5/releases) and download the latest version (v5.0-beta.11 or higher). Unzip the file to a folder. Run 'Constructor.exe'. If it asks for Python, go to python.org, download Python 3.7+ and check 'Add Python to PATH' during installation.",
+                "es": "Ve a GitHub (github.com/Zerbu/Mod-Constructor-5/releases) y descarga la última versión (v5.0-beta.11 o superior). Descomprime el archivo ZIP en una carpeta. Ejecuta 'Constructor.exe'. Si te pide Python, ve a python.org, descarga Python 3.7+ y marca 'Add Python to PATH' durante la instalación."
+            },
+            "image": "/Assets/Tutorials/trait_step1.png",
+            "label": {
+                "en": "Download",
+                "es": "Descargar"
+            },
+            "color": "#22C55E",
+            "tips": {
+                "en": "Python is required for script mods to work. Without Python, some traits won't function properly.",
+                "es": "Python es necesario para que los script mods funcionen. Sin Python, algunos rasgos no funcionarán correctamente."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 2: Create New Mod and Add Trait",
+                "es": "Paso 2: Crear Nuevo Mod y Agregar Trait"
+            },
+            "description": {
+                "en": "In Mod Constructor, click 'New Mod'. Enter your creator name when prompted (e.g., 'YourName'). Then click the 'Add Element' button (bottom left corner) → select '1: Beginner' → 'Trait'. Give it a unique name without spaces like 'Gamer_Trait' or 'Creative_Soul'. Click 'Create Element'.",
+                "es": "En Mod Constructor, haz clic en 'New Mod'. Ingresa tu nombre de creador cuando te lo pida (ej: 'TuNombre'). Luego haz clic en el botón 'Add Element' (esquina inferior izquierda) → selecciona '1: Beginner' → 'Trait'. Dale un nombre único sin espacios como 'Gamer_Trait' o 'Creative_Soul'. Haz clic en 'Create Element'."
+            },
+            "image": "/Assets/Tutorials/trait_step2.png",
+            "label": {
+                "en": "Create Trait",
+                "es": "Crear Trait"
+            },
+            "color": "#22C55E",
+            "tips": {
+                "en": "Use descriptive, unique names with underscores (_) instead of spaces to avoid conflicts with other mods.",
+                "es": "Usa nombres descriptivos y únicos con guiones bajos (_) en lugar de espacios para evitar conflictos con otros mods."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 3: Configure Basic Trait Information",
+                "es": "Paso 3: Configurar Información Básica del Trait"
+            },
+            "description": {
+                "en": "In the 'Trait Info' tab: 1) Enter the 'Display Name' (name shown in-game, e.g., 'Pro Gamer'). 2) Write an engaging 'Description'. 3) Click 'Select Icon' to choose a game icon or import a custom one (64x64 PNG). 4) Check the age boxes: Teen, Young Adult, Adult, Elder as appropriate. 5) Leave 'Trait Type' as 'Personality' for regular CAS traits.",
+                "es": "En la pestaña 'Trait Info': 1) Ingresa el 'Display Name' (nombre que se verá en el juego, ej: 'Pro Gamer'). 2) Escribe una 'Description' atractiva. 3) Haz clic en 'Select Icon' para elegir un ícono del juego o importar uno personalizado (64x64 PNG). 4) Marca las casillas de edad: Teen, Young Adult, Adult, Elder según corresponda. 5) Deja 'Trait Type' en 'Personality' si es un rasgo normal de CAS."
+            },
+            "image": "/Assets/Tutorials/trait_step3.png",
+            "label": {
+                "en": "Basic Info",
+                "es": "Info Básica"
+            },
+            "color": "#38BDF8",
+            "tips": {
+                "en": "Custom icons should be 64x64 pixels in PNG format with transparent background.",
+                "es": "Los íconos personalizados deben ser 64x64 píxeles en formato PNG con fondo transparente."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 4: Create Core Buff (Base Emotion)",
+                "es": "Paso 4: Crear Core Buff (Emoción Base)"
+            },
+            "description": {
+                "en": "Expand the 'Core Buff' section and click 'Open Element'. This opens the trait's main buff. In the buff tab: 1) Go to 'Add Component' → 'Emotion'. 2) Select emotion type (Happy, Confident, Focused, Playful, Flirty, Sad, Angry, etc.). 3) Adjust the 'Value' (intensity) between +1 and +10 (recommended: +2 or +3 for balance).",
+                "es": "Expande la sección 'Core Buff' y haz clic en 'Open Element'. Esto abre el buff principal del rasgo. En la pestaña del buff: 1) Ve a 'Add Component' → 'Emotion'. 2) Selecciona el tipo de emoción (Happy, Confident, Focused, Playful, Flirty, Sad, Angry, etc.). 3) Ajusta el 'Value' (intensidad) entre +1 y +10 (recomendado: +2 o +3 para balance)."
+            },
+            "image": "/Assets/Tutorials/trait_step4.png",
+            "label": {
+                "en": "Core Buff",
+                "es": "Core Buff"
+            },
+            "color": "#EAB308",
+            "tips": {
+                "en": "A value of +2 or +3 is balanced. Very high values (+8 or more) will dominate all other Sim emotions.",
+                "es": "Un valor de +2 o +3 es equilibrado. Valores muy altos (+8 o más) dominarán todas las demás emociones del Sim."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 5: Add Skill Modifiers (Optional)",
+                "es": "Paso 5: Agregar Modificadores de Habilidades (Opcional)"
+            },
+            "description": {
+                "en": "Return to the Trait tab. Click 'Add Component' → 'Modifiers'. In the window that opens: 1) Go to 'Add Component' → 'Skill Rate Modifier'. 2) Select a skill (e.g., Video Gaming, Programming, Charisma). 3) Adjust the multiplier (1.5 = +50% faster, 0.5 = 50% slower). You can add multiple modifiers for different skills.",
+                "es": "Vuelve a la pestaña del Trait. Haz clic en 'Add Component' → 'Modifiers'. En la ventana que se abre: 1) Ve a 'Add Component' → 'Skill Rate Modifier'. 2) Selecciona una habilidad (ej: Video Gaming, Programming, Charisma). 3) Ajusta el multiplicador (1.5 = +50% más rápido, 0.5 = 50% más lento). Puedes agregar múltiples modificadores de diferentes habilidades."
+            },
+            "image": "/Assets/Tutorials/trait_step5.png",
+            "label": {
+                "en": "Modifiers",
+                "es": "Modificadores"
+            },
+            "color": "#A78BFA",
+            "tips": {
+                "en": "Skill modifiers make your trait more functional. A value of 1.25 (+25%) to 1.5 (+50%) is reasonable.",
+                "es": "Los modificadores de habilidades hacen que tu rasgo sea más funcional. Un valor de 1.25 (+25%) a 1.5 (+50%) es razonable."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 6: Add Whims/Wants",
+                "es": "Paso 6: Añadir Whims/Wants (Deseos)"
+            },
+            "description": {
+                "en": "In the Trait tab, go to 'Add Component' → 'Whims/Wants'. Click the '+' button to add wants. You can: 1) Select game whims using 'Game Reference'. 2) Create custom whims. Whims make Sims with this trait want to perform certain actions frequently (e.g., play video games, socialize, work).",
+                "es": "En la pestaña del Trait, ve a 'Add Component' → 'Whims/Wants'. Haz clic en el botón '+' para agregar deseos. Puedes: 1) Seleccionar whims del juego usando 'Game Reference'. 2) Crear whims personalizados. Los whims hacen que tus Sims con este rasgo quieran realizar ciertas acciones frecuentemente (ej: jugar videojuegos, socializar, trabajar)."
+            },
+            "image": "/Assets/Tutorials/trait_step6.png",
+            "label": {
+                "en": "Whims",
+                "es": "Whims"
+            },
+            "color": "#EC4899",
+            "tips": {
+                "en": "Whims make the trait feel more alive. Sims will act more according to their personality.",
+                "es": "Los whims hacen que el rasgo se sienta más vivo. Los Sims actuarán más acorde a su personalidad."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 7: Configure Trait Conflicts",
+                "es": "Paso 7: Configurar Trait Conflicts (Conflictos)"
+            },
+            "description": {
+                "en": "In the 'Trait Conflicts' tab: check game traits that are incompatible with yours. For example, if your trait is 'Antisocial', you should mark 'Outgoing' as a conflict. This prevents a Sim from having contradictory traits at the same time. Search traits by name or browse categories.",
+                "es": "En la pestaña 'Trait Conflicts': marca los rasgos del juego que sean incompatibles con el tuyo. Por ejemplo, si tu rasgo es 'Antisocial', deberías marcar 'Outgoing' como conflicto. Esto evita que un Sim tenga rasgos contradictorios al mismo tiempo. Busca rasgos por nombre o navega por las categorías."
+            },
+            "image": "/Assets/Tutorials/trait_step7.png",
+            "label": {
+                "en": "Conflicts",
+                "es": "Conflictos"
+            },
+            "color": "#F97316",
+            "tips": {
+                "en": "Think logically: what traits would be opposite to yours? This makes your Sims more coherent.",
+                "es": "Piensa lógicamente: ¿qué rasgos serían opuestos al tuyo? Esto hace que tus Sims sean más coherentes."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 8: Add Custom Autonomy (Advanced)",
+                "es": "Paso 8: Agregar Autonomía Personalizada (Avanzado)"
+            },
+            "description": {
+                "en": "To make your trait influence autonomous behavior, go to Core Buff → 'Add Component' → 'Commodities'. Select commodities from other traits (e.g., 'trait_Active' for exercising, 'trait_Neat' for cleaning). This makes your Sims act similarly to Sims with those base traits.",
+                "es": "Para hacer que tu rasgo influya en el comportamiento autónomo, ve al Core Buff → 'Add Component' → 'Commodities'. Selecciona commodities de otros rasgos (ej: 'trait_Active' para que hagan ejercicio, 'trait_Neat' para limpiar). Esto hace que tus Sims actúen de forma similar a los Sims con esos rasgos base."
+            },
+            "image": "/Assets/Tutorials/trait_step8.png",
+            "label": {
+                "en": "Autonomy",
+                "es": "Autonomía"
+            },
+            "color": "#38BDF8",
+            "tips": {
+                "en": "Commodities control which actions Sims prefer to do on their own. Experiment with different combinations.",
+                "es": "Las commodities controlan qué acciones los Sims prefieren hacer por sí solos. Experimenta con diferentes combinaciones."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 9: Add Occasional Loots/Events (Advanced)",
+                "es": "Paso 9: Agregar Loots/Events Ocasionales (Avanzado)"
+            },
+            "description": {
+                "en": "For special events, go to 'Add Component' → 'Occasional Events' or 'Continuous Loots'. Occasional Events happen randomly (e.g., gain money, receive objects). Continuous Loots are evaluated constantly under certain conditions. You can add need modifiers, relationship changes, or monetary rewards.",
+                "es": "Para eventos especiales, ve a 'Add Component' → 'Occasional Events' o 'Continuous Loots'. Occasional Events ocurren aleatoriamente (ej: ganar dinero, recibir objetos). Continuous Loots se evalúan constantemente bajo ciertas condiciones. Puedes agregar modificadores de necesidades, cambios de relaciones, o recompensas monetarias."
+            },
+            "image": "/Assets/Tutorials/trait_step9.png",
+            "label": {
+                "en": "Loots",
+                "es": "Loots"
+            },
+            "color": "#22C55E",
+            "tips": {
+                "en": "Use this to make more interesting traits, like a 'Lucky' trait that occasionally gives money.",
+                "es": "Usa esto para hacer rasgos más interesantes, como un rasgo 'Afortunado' que ocasionalmente da dinero."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 10: Export and Install the Mod",
+                "es": "Paso 10: Exportar e Instalar el Mod"
+            },
+            "description": {
+                "en": "Click 'Export Package' (bottom right corner). Choose where to save and name your file. Two files will be generated: a .package and a .ts4script. Copy BOTH files to your Mods folder (Documents/Electronic Arts/The Sims 4/Mods). Make sure mods and script mods are enabled in game options.",
+                "es": "Haz clic en 'Export Package' (esquina inferior derecha). Elige dónde guardar y dale un nombre al archivo. Se generarán dos archivos: un .package y un .ts4script. Copia AMBOS archivos a tu carpeta Mods (Documentos/Electronic Arts/The Sims 4/Mods). Asegúrate de tener mods y script mods activados en las opciones del juego."
+            },
+            "image": "/Assets/Tutorials/trait_step10.png",
+            "label": {
+                "en": "Export",
+                "es": "Exportar"
+            },
+            "color": "#22C55E",
+            "tips": {
+                "en": "Always copy both files (.package and .ts4script). Without the .ts4script, many functions won't work.",
+                "es": "Siempre copia ambos archivos (.package y .ts4script). Sin el .ts4script, muchas funciones no funcionarán."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 11: Test In-Game",
+                "es": "Paso 11: Probar en el Juego"
+            },
+            "description": {
+                "en": "Open The Sims 4. Go to Create a Sim (CAS). Enable cheats with Ctrl+Shift+C and type 'testingcheats true', then 'cas.fulleditmode'. Look for your custom trait in the traits section. You can also use the command 'traits.equip_trait [TraitName]' to quickly assign it to an active Sim.",
+                "es": "Abre Los Sims 4. Ve a Crear un Sim (CAS). Habilita los trucos con Ctrl+Shift+C y escribe 'testingcheats true', luego 'cas.fulleditmode'. Busca tu rasgo personalizado en la sección de rasgos. También puedes usar el comando 'traits.equip_trait [NombreDelRasgo]' para asignarlo a un Sim activo rápidamente."
+            },
+            "image": "/Assets/Tutorials/trait_step11.png",
+            "label": {
+                "en": "Test!",
+                "es": "¡Probar!"
+            },
+            "color": "#22C55E",
+            "tips": {
+                "en": "If your trait doesn't appear, verify both files are in Mods and mods are enabled in Game Options.",
+                "es": "Si tu rasgo no aparece, verifica que ambos archivos estén en Mods y que los mods estén activados en Opciones del Juego."
+            }
+        }
+    ]
+}
