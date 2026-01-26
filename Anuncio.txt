@@ -1,4 +1,4 @@
 enableAnnounce=true
-announceText="IMPORTANTE!!! This is not the final version, this was made in a rush in order to solve a critical error. New full version will be released soon, please be patient ^^."
-imageURL="https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims4.png"
+announceText="New Version 1.4.0 is out! check it out and all the features! - The website has been updated as well."
+imageURL="https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/140Update.png"
 logoURL="https://github.com/Leuansin/leuan-dlcs/releases/download/imgs/logo.png"
