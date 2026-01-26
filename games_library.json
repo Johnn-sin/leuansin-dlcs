@@ -24,46 +24,49 @@
       "nameES": "Los Sims 2",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims2.png",
       "actionType": "openWebsite",
-      "windowName": "Sims2UpdaterWindow",
       "windowName": null,
       "requiresVault": false,
-      "websiteUrl": "https://www.minecraft.net/download"
+      "websiteUrl": "https://leuan.zeroauno.com/leuansvault/sims2-download.html"
     },
     {
       "id": "sims1",
       "name": "The Sims 1",
       "nameES": "Los Sims 1",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims1.jpg",
-      "actionType": "openWindow",
-      "windowName": "Sims3Downloader",
-      "requiresVault": false
+      "actionType": "openWebsite",
+      "windowName": null,
+      "requiresVault": false,
+      "websiteUrl": "https://leuan.zeroauno.com/leuansvault/sims1-download.html"
     },
     {
       "id": "simcity",
       "name": "SimCity Societies Deluxe",
       "nameES": "SimCity Societies Deluxe",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simcity.png",
-      "actionType": "openWindow",
-      "windowName": "SimCityUpdaterWindow",
-      "requiresVault": false
+      "actionType": "openWebsite",
+      "windowName": null,
+      "requiresVault": false,
+      "websiteUrl": "https://leuan.zeroauno.com/leuansvault/simscity-download.html"
     },
     {
       "id": "simmedieval",
       "name": "The Sims Medieval",
       "nameES": "Los Sims Medieval",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/sims-medieval.png",
-      "actionType": "openWindow",
-      "windowName": "SimsMedievalUpdaterWindow",
-      "requiresVault": false
+      "actionType": "openWebsite",
+      "windowName": null,
+      "requiresVault": false,
+      "websiteUrl": "https://leuan.zeroauno.com/leuansvault/sims-medieval-download.html"
     },
     {
       "id": "simstories",
       "name": "The Sims Stories Collection",
       "nameES": "Los Sims Historias Colección",
       "coverImageUrl": "https://github.com/Johnn-sin/leuansin-dlcs/releases/download/GameCovers/simsstories.webp",
-      "actionType": "openWindow",
-      "windowName": "SimsStoriesUpdaterWindow",
-      "requiresVault": false
+      "actionType": "openWebsite",
+      "windowName": null,
+      "requiresVault": false,
+      "websiteUrl": "https://leuan.zeroauno.com/leuansvault/sims-stories-download.html"
     },
     {
       "id": "house-flipper",
