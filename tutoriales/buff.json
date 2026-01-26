@@ -1,0 +1,105 @@
+{
+    "id": "buff",
+    "displayName": {
+        "en": "Buff",
+        "es": "Buff"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Create Buff in Mod Constructor",
+                "es": "Paso 1: Crear Buff en Mod Constructor"
+            },
+            "description": {
+                "en": "Open Mod Constructor. Go to 'Add Element' → '1: Beginner' → 'Buff'. Give it a unique name.",
+                "es": "Abre Mod Constructor. Ve a 'Add Element' → '1: Beginner' → 'Buff'. Dale un nombre único."
+            },
+            "image": "/Assets/Tutorials/buff_step1.png",
+            "label": {
+                "en": "Create",
+                "es": "Crear"
+            },
+            "color": "#3B82F6"
+        },
+        {
+            "title": {
+                "en": "Step 2: Configure Buff Info",
+                "es": "Paso 2: Configurar Info del Buff"
+            },
+            "description": {
+                "en": "Enter visible name, description and select icon. Define duration (in game hours) or mark as permanent.",
+                "es": "Ingresa nombre visible, descripción y selecciona un ícono. Define la duración (en horas de juego) o márcalo como permanente."
+            },
+            "image": "/Assets/Tutorials/buff_step2.png",
+            "label": {
+                "en": "Info",
+                "es": "Info"
+            },
+            "color": "#3B82F6"
+        },
+        {
+            "title": {
+                "en": "Step 3: Add Emotion",
+                "es": "Paso 3: Agregar Emoción"
+            },
+            "description": {
+                "en": "Go to 'Add Component' → 'Emotion'. Select type (Happy, Sad, Angry, etc.) and adjust intensity (+1 to +10).",
+                "es": "Ve a 'Add Component' → 'Emotion'. Selecciona el tipo (Happy, Sad, Angry, etc.) y ajusta la intensidad (+1 a +10)."
+            },
+            "image": "/Assets/Tutorials/buff_step3.png",
+            "label": {
+                "en": "Emotion",
+                "es": "Emoción"
+            },
+            "color": "#22C55E"
+        },
+        {
+            "title": {
+                "en": "Step 4: Add Modifiers (Optional)",
+                "es": "Paso 4: Agregar Modificadores (Opcional)"
+            },
+            "description": {
+                "en": "Add skill, need or autonomy modifiers. This makes the buff affect Sim behavior.",
+                "es": "Agrega modificadores de habilidades, necesidades o autonomía. Esto hace que el buff afecte el comportamiento del Sim."
+            },
+            "image": "/Assets/Tutorials/buff_step4.png",
+            "label": {
+                "en": "Modifiers",
+                "es": "Modificadores"
+            },
+            "color": "#A78BFA"
+        },
+        {
+            "title": {
+                "en": "Step 5: Create Object that Gives Buff",
+                "es": "Paso 5: Crear Objeto que Otorgue el Buff"
+            },
+            "description": {
+                "en": "To test, create a simple object in S4S that gives your buff when used. Or use it in a trait/interaction.",
+                "es": "Para probar, crea un objeto simple en S4S que otorgue tu buff al usarlo. O úsalo en un trait/interaction."
+            },
+            "image": "/Assets/Tutorials/buff_step5.png",
+            "label": {
+                "en": "Object",
+                "es": "Objeto"
+            },
+            "color": "#F97316"
+        },
+        {
+            "title": {
+                "en": "Step 6: Export and Test",
+                "es": "Paso 6: Exportar y Probar"
+            },
+            "description": {
+                "en": "Export the mod. In-game, use command 'buffs.add_buff [BuffName]' to quickly test it on active Sim.",
+                "es": "Exporta el mod. En el juego, usa el comando 'buffs.add_buff [BuffName]' para probarlo rápidamente en un Sim activo."
+            },
+            "image": "/Assets/Tutorials/buff_step6.png",
+            "label": {
+                "en": "Done!",
+                "es": "¡Listo!"
+            },
+            "color": "#22C55E"
+        }
+    ]
+}
