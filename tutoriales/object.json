@@ -1,0 +1,106 @@
+{
+    "id": "object",
+    "displayName": {
+        "en": "Object",
+        "es": "Objeto"
+    },
+    "steps": [
+        {
+            "title": {
+                "en": "Step 1: Clone Base Object in S4S",
+                "es": "Paso 1: Clonar Objeto Base en S4S"
+            },
+            "description": {
+                "en": "Open Sims 4 Studio. Go to 'Build' → 'Object'. Find a similar object to what you want to create and clone it.",
+                "es": "Abre Sims 4 Studio. Ve a 'Build' → 'Object'. Busca un objeto similar al que quieres crear y clónalo."
+            },
+            "image": "/Assets/Tutorials/object_step1.png",
+            "label": {
+                "en": "Clone",
+                "es": "Clonar"
+            },
+            "color": "#38BDF8"
+        },
+        {
+            "title": {
+                "en": "Step 2: Export and Edit Textures",
+                "es": "Paso 2: Exportar y Editar Texturas"
+            },
+            "description": {
+                "en": "In S4S, export the object textures. Edit them in Photoshop, GIMP or Paint.NET. Change colors, patterns or designs.",
+                "es": "En S4S, exporta las texturas del objeto. Edítalas en Photoshop, GIMP o Paint.NET. Cambia colores, patrones o diseños."
+            },
+            "image": "/Assets/Tutorials/object_step2.png",
+            "label": {
+                "en": "Textures",
+                "es": "Texturas"
+            },
+            "color": "#A78BFA"
+        },
+        {
+            "title": {
+                "en": "Step 3: Import Edited Textures",
+                "es": "Paso 3: Importar Texturas Editadas"
+            },
+            "description": {
+                "en": "Save your edited textures and return to S4S. Import the new textures using the 'Import' button.",
+                "es": "Guarda tus texturas editadas y vuelve a S4S. Importa las nuevas texturas usando el botón 'Import'."
+            },
+            "image": "/Assets/Tutorials/object_step3.png",
+            "label": {
+                "en": "Import",
+                "es": "Importar"
+            },
+            "color": "#A78BFA"
+        },
+        {
+            "title": {
+                "en": "Step 4: Edit Mesh in Blender (Advanced)",
+                "es": "Paso 4: Editar Mesh en Blender (Avanzado)"
+            },
+            "description": {
+                "en": "If you need to change 3D shape: export mesh to Blender, edit geometry and re-import. This is optional and advanced.",
+                "es": "Si necesitas cambiar la forma 3D: exporta el mesh a Blender, edita la geometría y re-importa. Esto es opcional y avanzado."
+            },
+            "image": "/Assets/Tutorials/object_step4.png",
+            "label": "Blender",
+            "color": "#EA580C",
+            "tips": {
+                "en": "For beginners, just change textures. Meshes require 3D modeling knowledge.",
+                "es": "Para principiantes, solo cambia texturas. Meshes requieren conocimientos de modelado 3D."
+            }
+        },
+        {
+            "title": {
+                "en": "Step 5: Configure Catalog",
+                "es": "Paso 5: Configurar Catálogo"
+            },
+            "description": {
+                "en": "In S4S, configure name, description, price and catalog category where your object will appear in Build Mode.",
+                "es": "En S4S, configura el nombre, descripción, precio y categoría de catálogo donde aparecerá tu objeto en Modo Construcción."
+            },
+            "image": "/Assets/Tutorials/object_step5.png",
+            "label": {
+                "en": "Catalog",
+                "es": "Catálogo"
+            },
+            "color": "#22C55E"
+        },
+        {
+            "title": {
+                "en": "Step 6: Save and Test",
+                "es": "Paso 6: Guardar y Probar"
+            },
+            "description": {
+                "en": "Save as .package with unique name. Place in Mods. Find your object in Build Mode in the category you chose.",
+                "es": "Guarda como .package con nombre único. Colócalo en Mods. Busca tu objeto en Modo Construcción en la categoría que elegiste."
+            },
+            "image": "/Assets/Tutorials/object_step6.png",
+            "label": {
+                "en": "Done!",
+                "es": "¡Listo!"
+            },
+            "color": "#22C55E"
+        }
+    ]
+}
