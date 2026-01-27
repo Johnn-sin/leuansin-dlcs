@@ -71,7 +71,7 @@
       "fileName": "extreme_violence",
       "version": "3.1",
       "gameVersion": "1.108",
-      "requiresManualInstall": true,
+      "requiresManualInstall": false,
       "patreonUrl": "https://www.patreon.com/sacrificialmods",
       "accentColor": "#DC2626"
     },
@@ -116,7 +116,7 @@
       "fileName": "private_practice",
       "version": "2.1",
       "gameVersion": "1.108",
-      "requiresManualInstall": true,
+      "requiresManualInstall": false,
       "patreonUrl": "https://www.patreon.com/adeepindigo",
       "accentColor": "#06B6D4"
     },
