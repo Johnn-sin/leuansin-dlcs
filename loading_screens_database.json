@@ -1,6 +1,17 @@
 {
   "loadingScreens": [
     {
+      "name": "(Dskecht) Pink Mode UI (Feb 2026 Update)",
+      "nameES": "(Dskecht) Interfaz Rosa (Actualizado Feb 2026)",
+      "description": "UI Interface color pink, created by the Modder Dskecht",
+      "descriptionES": "Interfaz de color rosa, creado por el modder Dskecht",
+      "downloadUrl": "https://github.com/Johnn-sin/LeuanRocks/releases/download/LDSCREENS/Pinky.zip",
+      "fileName": "PinkUI.zip",
+      "imageUrl": "https://github.com/Johnn-sin/LeuanRocks/releases/download/LDSCREENS/Captura.de.pantalla.2022-10-19.190711-.png",
+      "gradientStart": "#F472B6",
+      "gradientEnd": "#C084FC"
+    },
+    {
       "name": "Hello Sunshine!",
       "nameES": "Hello Sunshine",
       "description": "Soft pastel colors with dreamy aesthetics",
